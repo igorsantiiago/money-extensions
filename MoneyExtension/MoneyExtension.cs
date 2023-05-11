@@ -4,7 +4,7 @@ public static class Money
 {
     public static int ToCents(this decimal value)
     {
-        if (value < 0)
+        if (value <= 0)
             return 0;
 
         var valueString = value.ToString("N2").Replace(",", "").Replace(".", "");
