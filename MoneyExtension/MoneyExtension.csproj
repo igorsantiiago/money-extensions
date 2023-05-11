@@ -6,7 +6,7 @@
 	<Nullable>enable</Nullable>
 
 		<PackageId>MoneyExtensionByIgorSantiago</PackageId>
-		<Version>1.0.1</Version>
+		<Version>1.0.2</Version>
 		<License>MIT</License>
 		<Authors>Igor_Santiago</Authors>
 		<PackageDescription>Extension to convert decimal to integer</PackageDescription>
